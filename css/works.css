@@ -114,12 +114,10 @@
     
   }
   
-  .featured-works__card {
+ .featured-works__card {
     padding-top: 31px;
     padding-bottom: 15px;
     border-bottom: 1px solid #E0E0E0;
-    display: flex;
-    justify-content: space-between;
   }
   
   @media(max-width:691px){
